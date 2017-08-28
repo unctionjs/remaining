@@ -17,7 +17,7 @@
   "homepage": "https://github.com/unctionjs/remaining#readme",
   "repository": "github:unctionjs/remaining",
   "bugs": "https://github.com/unctionjs/remaining/issues",
-  "main": "transpiled/source.js",
+  "main": "transpiled/index.js",
   "nyc": {
     "require": [
       "babel-register"
@@ -59,6 +59,5 @@
   },
   "dependencies": {
     "@unction/dropfirst": "1.2.0"
-  },
-  "main": "transpiled/index.js"
+  }
 }
