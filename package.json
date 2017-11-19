@@ -1,6 +1,6 @@
 {
   "name": "@unction/remaining",
-  "version": "1.32.0",
+  "version": "1.33.0",
   "description": "Returns all but the first item in an ordered list",
   "keywords": [
     "unction",
