@@ -57,7 +57,7 @@
     "tap": "10.7.2"
   },
   "dependencies": {
-    "@unction/dropfirst": "1.37.0"
+    "@unction/dropfirst": "1.39.0"
   },
   "files": [
     "transpiled/index.js"
