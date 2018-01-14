@@ -59,7 +59,7 @@
     "tap": "11.0.0"
   },
   "dependencies": {
-    "@unction/dropfirst": "3.0.0"
+    "@unction/dropfirst": "4.0.0"
   },
   "files": [
     "transpiled/index.js"
