@@ -58,7 +58,7 @@
     "tap": "12.6.1"
   },
   "dependencies": {
-    "@unction/dropfirst": "8.5.0"
+    "@unction/dropfirst": "8.6.0"
   },
   "files": [
     "index.js",
