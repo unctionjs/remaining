@@ -1,7 +1,7 @@
-/* eslint-disable flowtype/require-return-type */
+
 import {test} from "tap";
 
-import remaining from "./index";
+import remaining from "./";
 
 test(({same, end}) => {
   same(
