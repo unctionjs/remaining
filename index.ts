@@ -1,5 +1,7 @@
-/* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type, no-magic-numbers */
+/* eslint-disable no-magic-numbers */
 import dropFirst from "@unction/dropfirst";
-export default function remaining (orderedList) {
-  return dropFirst(1)(orderedList);
+import {OrderedEnumerableType} from "./types";
+
+export default function remaining<A> (orderedEnumerable: OrderedEnumerableType<A>): OrderedEnumerableType<A> {
+  return dropFirst(1)(orderedEnumerable);
 }
