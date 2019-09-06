@@ -1,5 +1,5 @@
 
-import remaining from "./index.ts";
+import remaining from "./index";
 
 test(() => {
   expect(remaining(["a", "b", "c"])).toEqual(["b", "c"]);
