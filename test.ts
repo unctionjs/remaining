@@ -1,10 +1,10 @@
 
 import remaining from "./index";
 
-test(() => {
+test("works", () => {
   expect(remaining(["a", "b", "c"])).toEqual(["b", "c"]);
 });
 
-test(() => {
+test("works", () => {
   expect(remaining("abc")).toEqual("bc");
 });
