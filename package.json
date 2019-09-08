@@ -53,7 +53,7 @@
     "typescript": "3.5.1"
   },
   "dependencies": {
-    "@unction/dropfirst": "8.7.0"
+    "@unction/dropfirst": "8.8.0"
   },
   "files": [
     "index.ts",
