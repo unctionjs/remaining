@@ -64,6 +64,6 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "@unction/dropfirst": "8.10.0"
+    "@unction/dropfirst": "^8.11.0"
   }
 }
